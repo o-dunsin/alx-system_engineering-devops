@@ -1,5 +1,4 @@
 #!/bin/bash
+echo "Hello user"
 
-current_user=$(whoami)
-echo "Hello, $current_user"
 
